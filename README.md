@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm David!<br/>ICT Support Officer</h1>
+
+<h2>🎓 Education</h2>
+
+- [Certificate IV Information Technology](https://accm.edu.au/course/certificate-iv-in-information-technology-ICT40120)
+
+<h2>📃 Certifications</h2>
+
+- [CompTIA A+](https://www.comptia.org/certifications/a)
+  
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Python</b>
+  - [Port Scanner](https://github.com/davidpocaterra)
 
 <!--
 **davidpocaterra/davidpocaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
