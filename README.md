@@ -12,7 +12,7 @@
 
 - <b>Python</b>
   - [Password Generator](https://github.com/davidpocaterra/Password-Generator)
-  - [Real Estate Data Fetcher](https://github.com/davidpocaterra/RealEstateDataFetcher)
+  - [Real Estate Data Fetcher](https://github.com/davidpocaterra/Real-Estate-Data-Fetcher)
 
 <!--
 **davidpocaterra/davidpocaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
