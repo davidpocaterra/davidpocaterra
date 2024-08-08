@@ -12,6 +12,7 @@
 
 - <b>Python</b>
   - [Password Generator](https://github.com/davidpocaterra/Password-Generator)
+  - [Port Scanner](https://github.com/davidpocaterra/Port-Scanner)
   - [Real Estate Data Fetcher](https://github.com/davidpocaterra/Real-Estate-Data-Fetcher)
 
 <!--
