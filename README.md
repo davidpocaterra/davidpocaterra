@@ -11,6 +11,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
+  - [Password Generator](https://github.com/davidpocaterra/Password-Generator)
   - [Real Estate Data Fetcher](https://github.com/davidpocaterra/RealEstateDataFetcher)
 
 <!--
