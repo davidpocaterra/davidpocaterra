@@ -11,7 +11,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Port Scanner](https://github.com/davidpocaterra)
+  - [Real Estate Data Fetcher](https://github.com/davidpocaterra/RealEstateDataFetcher)
 
 <!--
 **davidpocaterra/davidpocaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
